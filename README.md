@@ -1,7 +1,7 @@
 # IOSCommonTool
 iOS实用的UI控件，显示内容可完全自定义，Banner,TanTanCard,SuperLink,WaterFlow,瀑布流,自定义Banner,高仿探探左滑右滑卡片,超链接和富文本
 
-# 自定义Banner
+# 自定义Banner（LBBannerView）
 1、支持横向或竖向滚动切换，支持淡入淡出动效切换
 2、支持高度/宽度（横向时高度自适应，竖向时宽度自适应）跟随内容自适应变化，也可设置为固定宽高
 3、支持设置自定义样式的指示器，指示器位置也支持横向显示或者竖向显示，指示器位置也可自定义设置
